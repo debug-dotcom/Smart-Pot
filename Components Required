@@ -1,0 +1,7 @@
+Components used for Smart Pot:
+
+  * Arduino Nano - It processes the data from sensor and programmed using the Arduino IDE.
+
+  * Moisture sensor - Measures the moisture level in the pot.
+
+  * OLED - An 0.96-inch display that shows animated emoji based on plant’s condition.
