@@ -1,0 +1,7 @@
+Objective:
+
+In this project, we have created a sensible plant pot that will show the emotions of a plant. It uses a moisture sensing element to track 
+the wetness in soil and it shows an emotional expression for each level of wetness. As we all know that plant requires water to be alive 
+and it’s like food to them, unfairly sometimes we are unaware of water plants according to their need. Therefore, we can say it’s fairly a 
+smart pot that predicts the wetness of the soil and displays in an OLED as Emojis. It’s a significant project to create a sensible plant 
+pot and visually monitor the wetness level within the pot using Emoji.
