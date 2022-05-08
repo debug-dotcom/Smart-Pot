@@ -3,7 +3,7 @@
 
   This file describes about my project **"SMART POT"** done during my Semesters. 
   
-  ## Abstract:
+  ## Introduction:
         
            IoT is everywhere in today’s world, from food industry to healthcare. So, we formulated an idea to implement IoT in a simple and 
         efficient way on plant pots. Gardeners want to grow healthy plants but maintaining plants in pots requires lot of time and 
